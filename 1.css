@@ -1,0 +1,48 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e0f7fa;
+    color: #333;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.hero-section {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 115, 230, 0.7), rgba(0, 115, 230, 0.7)), url('https://example.com/hero-water.jpg') no-repeat center center/cover;
+}
+
+.hero-section h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+}
+
+.navbar {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg-primary {
+    background-color: #0073e6 !important;
+}
+
+.bg-light {
+    background-color: #f0f9ff !important;
+}
+
+footer {
+    background-color: #0073e6;
+}
+
+footer p {
+    margin: 0;
+}
+
+.list-unstyled {
+    font-size: 1.2rem;
+}
+
+ul li i {
+    color: #0073e6;
+    margin-right: 10px;
+}
